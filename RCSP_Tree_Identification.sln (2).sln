@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RCSP_Tree_Identification", ".", "{8008BD08-8698-4DFF-9294-01434CECF091}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53610"
+		Debug.AspNetCompiler.PhysicalPath = "..\RCSP_Tree_Identification\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53610\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53610"
+		Release.AspNetCompiler.PhysicalPath = "..\RCSP_Tree_Identification\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53610\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53610"
+		SlnRelativePath = "..\RCSP_Tree_Identification\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8008BD08-8698-4DFF-9294-01434CECF091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8008BD08-8698-4DFF-9294-01434CECF091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {587AEB47-64C3-4DEF-9BB9-E5AE64778B98}
+	EndGlobalSection
+EndGlobal
